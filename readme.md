@@ -45,26 +45,6 @@ A beautiful, interactive web application that visualizes 10 different sorting al
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional installations required!
 
-### Installation
-
-1. **Clone the repository**
-   git clone https://github.com/its-rizz/Sorting-Visualizer.git
-   cd sorting-visualizer
-
-2. **Open the application**
-   Simply open index.html in your browser
-   open index.html
-
-Or use a local server
-python -m http.server 8000
-
-3. **Start exploring!**
-
-- Select an algorithm from the dropdown
-- Adjust array size (10-100 elements)
-- Control animation speed
-- Click "Start Sorting" to begin visualization
-
 ## 🎮 How to Use
 
 ### Basic Controls
@@ -184,12 +164,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for better algorithm education tools
 - Built with modern web technologies for optimal performance
 - Designed with accessibility and user experience in mind
-
-## 📞 Contact
-
-- **GitHub**: its-rizz (https://github.com/its-rizz)
-- **Email**: rizwan.ahmed7801@gmail.com
-- **LinkedIn**: [MD RIZWAN AHMAD](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/md-rizwan-ahmad-3736b61bb/)
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
