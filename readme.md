@@ -149,7 +149,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Contribution Ideas
 
-- Add more sorting algorithms (Tim Sort, Intro Sort)
+- Add more sorting algorithms (Time Sort, Intro Sort)
 - Implement sound effects for operations
 - Add algorithm comparison mode
 - Create mobile-specific optimizations
